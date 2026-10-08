@@ -1,124 +1,68 @@
  <div align="center">
 
-# Simantini Rembhotkar
+# Hey, I'm Simantini Rembhotkar 👋
 
-### Software Engineer · Backend Systems · Applied AI
+### MS Computer Science @ Texas A&M University | Software Engineering & AI
 
-**MS Computer Science @ Texas A&M University**
-
-*Engineering reliable systems at the intersection of software, cloud, and AI.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/simantini07)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:simantinirembhotkar@gmail.com)
+*Building scalable backend systems, intelligent applications, and cloud-native solutions.*
 
 </div>
 
 ---
 
-### A little about me
+### 🚀 About Me
 
-I'm a Computer Science graduate student at **Texas A&M University**, with nearly two years of professional software engineering experience spanning backend development, full-stack applications, and AI-driven systems.
-
-Most recently, at **Revionics (Aptos)**, I worked on multi-agent AI platforms, designing evaluation frameworks and optimizing LLM pipelines for performance and efficiency.
-
-Previously, I developed production-oriented applications at **Equations Work** and built an AI-powered statistical analysis assistant as a **Research Assistant at Texas A&M**.
-
-I enjoy solving challenging engineering problems, designing reliable APIs, and turning complex ideas into practical software.
-
-**Currently exploring:** Distributed Systems · Microservices · System Design · Cloud Infrastructure
+- 🎓 Pursuing my **Master's in Computer Science at Texas A&M University** (GPA: 3.87/4.0)
+- 💼 Former **Machine Learning Engineer Intern @ Revionics (Aptos)**, where I worked on multi-agent AI systems, LLM evaluation, and performance optimization
+- 💻 Previously worked as a **Software Engineer @ Equations Work**, developing full-stack applications, REST APIs, and cloud-integrated services
+- 🔬 Former **Research Assistant @ Texas A&M University**, building an AI-powered statistical analysis platform
+- 🌱 Currently exploring **Distributed Systems, Microservices, System Design, and Cloud-Native Development**
+- 🎯 Interested in **Backend Engineering, Software Development, AI Infrastructure, and Scalable Systems**
 
 ---
 
-### Technologies I work with
+### 🛠 Tech Stack
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=python,js,ts,cpp,cs&theme=dark)
+![Languages](https://skillicons.dev/icons?i=python,js,ts,cpp,cs)
 
 **Backend & Frontend**
 
-![Frameworks](https://skillicons.dev/icons?i=dotnet,fastapi,flask,nodejs,react,angular&theme=dark)
+![Frameworks](https://skillicons.dev/icons?i=dotnet,fastapi,flask,nodejs,react,angular,html,css)
 
 **Databases**
 
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
 
-**Cloud & Developer Tools**
+**Machine Learning & AI**
 
-![Cloud](https://skillicons.dev/icons?i=azure,gcp,aws,docker,kubernetes,git,github&theme=dark)
+![ML](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch)
 
-**AI & Data**
+**Cloud, DevOps & Tools**
 
-![AI](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark)
-
-`LLMs` · `RAG` · `AI Agents` · `NLP` · `Pandas` · `Vector Search`
+![Tools](https://skillicons.dev/icons?i=azure,gcp,aws,docker,kubernetes,git,github,linux,vscode)
 
 ---
 
-### Selected engineering work
+### 📂 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 🔍 **[AI Code Reviewer](https://github.com/simantini07/cf_ai_code_reviewer)** — Cloudflare-based AI code review platform leveraging Workers AI, Durable Objects, and Vectorize for intelligent code analysis.
 
-**[Cloudflare AI Code Reviewer](https://github.com/simantini07/cf_ai_code_reviewer)**
+- 🧠 **[MeetingMind](https://github.com/simantini07/MeetingMind)** — Full-stack meeting intelligence platform with automated summarization, action-item extraction, and calendar integration using React, FastAPI, and PostgreSQL.
 
-AI-powered code analysis platform designed to identify bugs, security vulnerabilities, and performance issues.
+- 📚 **[InquiroAI](https://github.com/simantini07/InquiroAI-)** — AI-powered document learning assistant featuring RAG, semantic search with pgvector, and contextual question answering.
 
-`TypeScript` `Workers AI` `Durable Objects` `Vectorize`
-
-</td>
-<td width="50%" valign="top">
-
-**[MeetingMind](https://github.com/simantini07/MeetingMind)**
-
-Full-stack meeting intelligence platform with transcript analysis, action-item extraction, and calendar integration.
-
-`React` `FastAPI` `PostgreSQL` `NLP`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[InquiroAI](https://github.com/simantini07/InquiroAI-)**
-
-Document-based learning assistant featuring semantic retrieval, contextual question answering, and flashcard generation.
-
-`React` `FastAPI` `pgvector` `Gemini`
-
-</td>
-<td width="50%" valign="top">
-
-**[AI Terminal Assistant](https://github.com/simantini07/AI-Terminal-Assistant)**
-
-Developer-focused CLI that translates natural language into terminal commands with explanations and safety assessments.
-
-`Python` `Gemini API` `CLI`
-
-</td>
-</tr>
-</table>
+- 📊 **[Yelp Restaurant Analysis](https://github.com/simantini07/yelp_restaurant_analysis)** — Python-based data analysis and exploration of restaurant datasets.
 
 ---
 
-### Beyond the code
+### 🌐 Connect With Me
 
-- **Revionics (Aptos)** — Improved LLM evaluation accuracy by 80% and reduced pipeline latency by 40% through caching and evaluation redesign.
-- **Texas A&M University** — Developed an LLM-powered statistical analysis assistant integrating Python, R, and reproducible reporting.
-- **Equations Work** — Built full-stack applications, backend services, and AI-integrated software systems.
+<a href="https://github.com/simantini07">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:simantinirembhotkar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
----
-
-<div align="center">
-
-### Let's connect
-
-I'm interested in building reliable, scalable software and collaborating on meaningful engineering problems.
-
-**[GitHub](https://github.com/simantini07) · [Email](mailto:simantinirembhotkar@gmail.com)**
-
-<sub>Always learning. Always building.</sub>
-
-</div>
