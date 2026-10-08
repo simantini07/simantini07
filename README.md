@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Hey, I'm Simantini Rembhotkar 👋
 
@@ -54,6 +54,20 @@
 - 📚 **[InquiroAI](https://github.com/simantini07/InquiroAI-)** — AI-powered document learning assistant featuring RAG, semantic search with pgvector, and contextual question answering.
 
 - 📊 **[Yelp Restaurant Analysis](https://github.com/simantini07/yelp_restaurant_analysis)** — Python-based data analysis and exploration of restaurant datasets.
+
+---
+
+### 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=simantini07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Simantini's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simantini07&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simantini07&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity Graph" />
+
+</div>
 
 ---
 
